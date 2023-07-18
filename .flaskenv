@@ -1,8 +1,7 @@
 FLASK_APP=blog.py
-set FLASK_ENV=production
-
-set MAIL_SERVER=smtp.googlemail.com
-set MAIL_PORT=587
-set MAIL_USE_TLS=1
-set MAIL_USERNAME=<your-gmail-username>
-set MAIL_PASSWORD=<your-gmail-password>
+FLASK_ENV=development
+MAIL_SERVER=smtp.googlemail.com
+MAIL_PORT=587
+MAIL_USE_TLS=1
+MAIL_USERNAME=habibulmursaleen@gmail.com
+MAIL_PASSWORD=fdtjfbsluyctwzzb
